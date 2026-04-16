@@ -8,6 +8,12 @@ telefone
 endereco
 rfid
 status
+contratarPlano()
+AgendarAula()
+CancelarAgendamento()
+RegistrarAcesso()
+AtualizarStatus()
+ReceberNotificacao()
 
 ***Plano***
 RF01, RF02, RF04
